@@ -1,0 +1,9 @@
+Clone the repository to your computer using the command:
+git clone https://github.com/yourusername/my-portfolio.git
+
+add the files to git
+git add .
+git commit -m "Initial commit"
+git push origin main
+
+
