@@ -1,23 +1,23 @@
 
 <h1 align="center">Hi 👋, I'm Shiva Reddy Mogili</h1>
-<h3 align="center">A passionate datascientist</h3>
+<h3 align="center">A passionate datascientist with Strong Foundation in Machine Learning and Natural Language Processing</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivareddy0117&label=Profile%20views&color=0e75b6&style=flat" alt="shivareddy0117" /> </p>
 
 - 🔭 Gained Hands on **Python**
 
-- 🌱 My current interests : **spring boot**
+- 🌱 My current interests : ** Real-World Applications of State-of-the-Art LLM and AI agents**
 
-- 👯 I’m open to collaborate on **back end projects**
+- 👯 I’m open to collaborate on **open source projects or Participate in the AI Hackathons**
 
-- 🤝 I’m looking for support with **Machine learning (ML), Natural language processing (NLP)**
+- 🤝 I’m looking for support with ** Blog Preparation on Data Science ,Mathematics, and statistics concepts for Making the Foundational Concepts Easier for the Community**
 
-- 💬 Ask me about **html, css, java , js**
+- 💬 Ask me about cool stuff like ** Advancements in AI & Experimentation**
 
 - 📫 How to reach me **shivamogili1998@gmail.com**
 
-- ⚡ Fun fact : **Being a chess player**
+- ⚡ Fun fact : ** Chess Player , Super Excited to master the Blindfold and Study the Super cool Games of the GMs and Creating Chess Engine or ChessDataBase- Easier for Chess Lovers **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
