@@ -7,7 +7,7 @@
 
 - 🔭 Gained Hands on **Python, R, SQL, Cpp, Java**
 
-- 🌱 My current interests : ** Real-World Applications of State-of-the-Art LLM and AI agents**
+- 🌱 My current interests : ** Real-World Applications of State-of-the-Art LLMs and AI agents**
 
 - 👯 I’m open to collaborate on **open source projects or Participate in the AI Hackathons**
 
