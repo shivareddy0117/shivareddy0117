@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivareddy0117&label=Profile%20views&color=0e75b6&style=flat" alt="shivareddy0117" /> </p>
 
-- 🔭 Gained Hands on **Python**
+- 🔭 Gained Hands on **Python, R, SQL, Cpp, Java**
 
 - 🌱 My current interests : ** Real-World Applications of State-of-the-Art LLM and AI agents**
 
